@@ -13,16 +13,33 @@ This tool processes a file containing shapefiles with various spatial reference 
 - <b>Pyscripter</b>
 
 <h2>walk-through:</h2>
-
 <p align="center">
-Launch the utility: <br/>
+Confirm the Spatial Reference of each Shapefile: <br/>
+<img src="https://imgur.com/dUv6zfY.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+</p>
+<p align="center">
+Launch our Scripting tool: <br/>
 <img src="https://imgur.com/TUxZk5R.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
 <p align="center">
-Launch the utility: <br/>
-<img src="https://imgur.com/nzKDw3H.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Input folder containing shapefiles needing reprojecting and Target projection: <br/>
+<img src="https://imgur.com/nO8KdFQ.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+</p>
+<p align="center">
+Scripting tool has successfully run: <br/>
+<img src="https://imgur.com/iFEaD4d.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+</p>
+<p align="center">
+Confirm Results in Pyscripter: <br/>
+<img src="https://imgur.com/n6r0muQ.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>

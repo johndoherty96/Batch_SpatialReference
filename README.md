@@ -43,6 +43,8 @@ Confirm Results in Pyscripter: <br/>
 <br />
 <br />
 </p>
+<h2>Citations and Acknowledgment:</h2>
+- <b>All data for this project was provided by Penn State University</b> 
 
 
 <!--
